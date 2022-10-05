@@ -1,2 +1,2 @@
 # flask-development-site
-Sitio donde pindre todo el material referente al desarollo con Flask
+Sitio donde pondre todo el material referente al desarrollo con Flask
